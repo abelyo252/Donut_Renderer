@@ -33,11 +33,7 @@ A donut or torus can be created by revolving a circle, placed a distance bigger 
 <p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/1.png"> </p>
 
 
-The function formula for a circle with radius r and center M(a, b) is:
-
-From this formula, we can derive the parametric equation (which will be easier to work with). To do this we can start with the Pythagorean identity:
-
-This equation looks very similar to our previous function formula. Converting the formula of a circle into its parametric equation would look like this:
+The function formula for a circle with radius r and center M(a, b) is: From this formula, we can derive the parametric equation (which will be easier to work with). To do this we can start with the Pythagorean identity: This equation looks very similar to our previous function formula. Converting the formula of a circle into its parametric equation would look like this:
 
 
 <p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/2.png"> </p>
@@ -45,7 +41,7 @@ This equation looks very similar to our previous function formula. Converting th
 Well, how to map this 3D object into 2D ie terminal screen?
 
 !
-<p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/index.png"> </p>
+<p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/view.png"> </p>
 
 The output of the dot product will be:
 
