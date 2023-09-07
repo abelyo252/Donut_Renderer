@@ -1,6 +1,6 @@
 # Donut_Renderer: 3D Illusion Interaction
 
-This is a Python program that generates an animated donut using the Pygame library. The donut rotates and creates an illusion of a 3D shape. Each frame of the animation is displayed on the screen using characters and colors.T he spinning “donuts” ASCII renderer . The “pixels” are ASCII characters .,-~:;=!*#$@ that accounts for the illumination value of the surface.
+This is a Python program that generates an animated donut using the Pygame library. The donut rotates and creates an illusion of a 3D shape. Each frame of the animation is displayed on the screen using characters and colors.The spinning “donuts” ASCII renderer . The “pixels” are ASCII characters .,-~:;=!*#$@ that accounts for the illumination value of the surface.
 
 
 <p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/donut-animation.gif"> </p>
@@ -45,7 +45,7 @@ This equation looks very similar to our previous function formula. Converting th
 Well, how to map this 3D object into 2D ie terminal screen?
 
 !
-<p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/3.png"> </p>
+<p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/index.png"> </p>
 
 The output of the dot product will be:
 
