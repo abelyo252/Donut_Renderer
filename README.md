@@ -40,7 +40,7 @@ The function formula for a circle with radius r and center M(a, b) is: From this
 
 Well, how to map this 3D object into 2D ie terminal screen?
 
-!
+To map a 3D object onto a 2D terminal screen, you'll need to perform a process called projection. In the provided code, the donut animation is already projected onto a 2D screen using characters. The projection is achieved by representing each point in 3D space as a character on the 2D screen. The x and y coordinates of each point are determined based on its position relative to the screen, and the z-coordinate (depth) is used to determine the color and brightness of the character.
 <p align="center"> <img src="https://github.com/abelyo252/Donut_Renderer/blob/main/math/view.png"> </p>
 
 The output of the dot product will be:
